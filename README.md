@@ -138,3 +138,20 @@ Why This Matters Explanation
 Daily Digest Generation
       ↓
 Feedback Learning
+````
+
+---
+
+# Tech Stack
+
+| Layer             | Technology                 |
+| ----------------- | -------------------------- |
+| Frontend          | Streamlit                  |
+| Backend           | Python                     |
+| ML/NLP            | scikit-learn, transformers |
+| Similarity Engine | TF-IDF + Cosine Similarity |
+| Database          | SQLite                     |
+| Data Handling     | pandas                     |
+| Visualization     | Streamlit Charts           |
+| Deployment        | Streamlit Cloud            |
+| Version Control   | GitHub                     |
